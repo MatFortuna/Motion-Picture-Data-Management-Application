@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nephr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nephr\\.nuget\\packages"
+    ]
+  }
+}
